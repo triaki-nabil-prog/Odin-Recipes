@@ -1,5 +1,6 @@
 body {
     background-image: url(img/leaves.webp);
+    font-family: Georgia, 'Times New Roman', Times, serif
 
 }
 
@@ -7,7 +8,6 @@ body {
     background-color: #365115;
     color: #CDE9AB;
     font-size: 30px;
-    font-family: 'Courier New', Courier, monospace;
     font-style: normal;
     font-weight: bold;
     text-align: center;
