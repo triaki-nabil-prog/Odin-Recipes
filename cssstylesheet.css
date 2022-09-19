@@ -1,3 +1,7 @@
+html {
+    height: 100%;
+    margin: 0;
+}
 body {
     background-image: url(img/leaves.webp);
     font-family: Georgia, 'Times New Roman', Times, serif
@@ -20,7 +24,8 @@ body {
 
 .ListBox {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap:wrap;
+    flex-direction:row;
     background-color: #6CA12B;
     padding: 20px;
     justify-content: center;
