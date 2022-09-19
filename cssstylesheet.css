@@ -4,7 +4,7 @@ html {
 }
 body {
     background-image: url(img/leaves.webp);
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif, 'Courier New', Courier, monospace
 
 }
 
@@ -61,5 +61,30 @@ img {
     transition: all ease;
     border: 15px;
     box-shadow: 0 0 10px #1C2C08;
+
+}
+
+ul {
+    font-size: 30px;
+    font-weight:normal;
+    display: flex;
+    flex-direction:column;
+    gap: 10px;
+    align-items: center;
+    background-color:#35530f ;
+
+    margin: 10px;
+    margin-left:  400px;
+    margin-right: 400px;
+    padding:5px;
+}
+ul li {
+    display: flex;
+    flex-direction:column;
+    gap: 10px;
+    align-items: center;
+background-color: #88ca36;
+margin: 5px;
+padding: 5px;
 
 }
