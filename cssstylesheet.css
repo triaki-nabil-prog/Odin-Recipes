@@ -64,27 +64,3 @@ img {
 
 }
 
-ul {
-    font-size: 30px;
-    font-weight:normal;
-    display: flex;
-    flex-direction:column;
-    gap: 10px;
-    align-items: center;
-    background-color:#35530f ;
-
-    margin: 10px;
-    margin-left:  400px;
-    margin-right: 400px;
-    padding:5px;
-}
-ul li {
-    display: flex;
-    flex-direction:column;
-    gap: 10px;
-    align-items: center;
-background-color: #88ca36;
-margin: 5px;
-padding: 5px;
-
-}
