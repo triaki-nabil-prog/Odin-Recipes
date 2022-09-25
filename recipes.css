@@ -1,0 +1,7 @@
+p,h1,h2,ul{
+    display: block;
+    border: 2px solid green;
+    margin: 10px auto;
+    padding: 0 1em;
+    max-width: 60rem; 
+}

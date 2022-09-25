@@ -51,9 +51,10 @@ body {
 }
 
 img {
-    width: 400px;
-    height: 400px;
-    object-fit:cover;
+    display: block;
+    max-width: 200px;
+    height: 200px;
+     margin: 0px auto;
 }
 
 .ListBox img:hover {
@@ -63,4 +64,5 @@ img {
     box-shadow: 0 0 10px #1C2C08;
 
 }
+
 
